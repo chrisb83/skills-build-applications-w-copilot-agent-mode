@@ -458,3 +458,4 @@ test('block scalar headers accept either indicator order', () => {
     assert.doesNotThrow(() => validateExercise(root), header);
   }
 });
+
